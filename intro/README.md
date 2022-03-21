@@ -39,7 +39,7 @@ Pronto a Máquina Virtual será configurada e instalada.
 <hr>
 
 ## Demonstre de uma maneira simples porque essa prática é considerada um hipervisor do Tipo 2.
-- São executados como uma camada de software em um sistema operacional, como outros programas de computador. Por isso são hipervisor do tipo 2.
+- Porque são executados como uma camada de software em um sistema operacional, como outros programas de computador. Por isso são hipervisor do tipo 2.
 
 <hr>
 
