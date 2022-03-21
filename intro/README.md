@@ -20,7 +20,6 @@ Então apartir daí que iremos criar a nossa máquina virtual.
 
 
 Com o acesso a internet, já configurado.
-Antes de tudo, para que nossa máquina virtual tenha acesso à internet, precisamos criar primeiro antes da máquina virtual um Switch de rede virtual, para que nossa máquina acesse a internet.
 
 Digite na barra de tarefas 'Gerenciador do Hyper-V' e vamos configurar a máquina virtual.
  - Com botão direito do mouse clique em cima do nome do servidor destacado. -> Novo -> Máquina Virtual
