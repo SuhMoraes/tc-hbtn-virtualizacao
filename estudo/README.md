@@ -44,7 +44,7 @@ Tanto é que a empresa expandiu o uso da solução para desktops, por meio da vi
 
 | Estudo     | de Caso                                |
 |------------|----------------------------------------|
-| **Caso 1** | Virtualização de Armazenamento         |
+| **Caso 1** | Virtualização de Armazenamento  e nuvem      |
 | **Caso 2** | Virtualização de Data Center           |
 | **Caso 3** | Virtualização de desktop               |
 | **Caso 4** | Virtualização de aplicativos e Desktop |
