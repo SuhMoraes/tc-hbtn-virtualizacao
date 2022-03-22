@@ -2,7 +2,7 @@
 
 <hr>
 
-## Como criar máquina virtual com Windows.
+## Como criar máquina virtual com Windows - Server Manager
 
 Caso não venha habilitado o Hyper-V por padrão, segue as instruções abaixo:
 
@@ -18,8 +18,9 @@ Após hablitar  Hyper-V, aperecerá uma mensagem dizendo 'fazendo aplicações n
 Espere essas aplicações terminarem e o computador irá pedir para ser reiniciado.
 Então apartir daí que iremos criar a nossa máquina virtual.
 
-
 Com o acesso a internet, já configurado.
+
+### Configurando a Máquina Virtual - VM
 
 Digite na barra de tarefas 'Gerenciador do Hyper-V' e vamos configurar a máquina virtual.
  - Com botão direito do mouse clique em cima do nome do servidor destacado. -> Novo -> Máquina Virtual
@@ -39,7 +40,7 @@ Pronto a Máquina Virtual será configurada e instalada.
 <hr>
 
 ## Demonstre de uma maneira simples porque essa prática é considerada um hipervisor do Tipo 2.
-- Porque são executados como uma camada de software em um sistema operacional, como outros programas de computador. Por isso são hipervisor do tipo 2.
+- Porque são executados como uma camada de software em um sistema operacional que seria o host. Por isso são hypervisor do tipo 2.
 
 <hr>
 
@@ -51,8 +52,9 @@ _"Virtualização e Seus Benefícos para Empresas com Hyper-v; um Estudo de Caso
 Básico     | PowerEdge T150 Server
 --------- | ------
 Processador  | Intel® Xeon® E-2378 (2.6 GHz, 16M Cache, 8 núcleos/16 threads, Turbo 65W, 3200 MT/s)
-Memória | 16GB DDR4 3200MHz (1X16GB, ECC, UDIMM, BCC)
+Memória RAM | 16GB DDR4 3200MHz (1X16GB, ECC, UDIMM, BCC)
 Armazenamento | SSD de 480GB SATA RI ISE 6Gbps 512e 2.5" com 3.5" Brkt AG, Cabled
 Sistema operacional| Windows Server® 2022 Standard, 16 núcleos
+Adaptador de rede | On-Board Broadcom 5720 Dual Port 1Gb LOM
 
 
